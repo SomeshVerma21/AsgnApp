@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_nav"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_icon"
+        android:title="Home"/>
+    <item
+        android:id="@+id/add_nav"
+        android:enabled="true"
+        android:icon="@drawable/ic_add_icon"
+        android:title="Add"/>
+    <item
+        android:id="@+id/task_nav"
+        android:enabled="true"
+        android:icon="@drawable/ic_list_icon"
+        android:title="Tasks"/>
+</menu>

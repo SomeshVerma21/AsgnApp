@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368995544002",
+    "project_id": "asgnapp-4a6d1",
+    "storage_bucket": "asgnapp-4a6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368995544002:android:064d5126bef74a524e845b",
+        "android_client_info": {
+          "package_name": "com.vermaji.asgnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368995544002-117savspj7ruvibvctbgte6bfl0hnoha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcqcppFqzfaw-leEKIR-ei7XxTpJ0fBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368995544002-117savspj7ruvibvctbgte6bfl0hnoha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
